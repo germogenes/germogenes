@@ -1,6 +1,11 @@
+<?php
+
+?>
 <!DOCTYPE>
    <html>
       <center>
          <h1>DEMO WEBSITE </h1>   
       </center>
 </html>
+
+   
